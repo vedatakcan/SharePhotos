@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746333846434",
+    "project_id": "photosshare-7de00",
+    "storage_bucket": "photosshare-7de00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746333846434:android:77917d5f380e81fac7d0fb",
+        "android_client_info": {
+          "package_name": "com.vedatakcan.sharephotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746333846434-g8t5r74dsbr8dk7t3qf8jr2160uajee7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4l1JZzWhq9PqZDwHe6F8ycOGlIz0eZ-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746333846434-g8t5r74dsbr8dk7t3qf8jr2160uajee7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
